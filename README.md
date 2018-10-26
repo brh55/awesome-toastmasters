@@ -5,9 +5,7 @@ We already know leading a meeting and public speaking isn't always easy, but fea
 
 ## Contents
 ### Agendas
-
-- [Agenda Template #1](/agenda_template1.docx)
-   Includes a basic overview of each role, timer card in the bottom, and general directions to guide the meeting [ArtICCulators in Silicon Valley](https://articculators.toastmastersclubs.org/)
+- [Agenda Template #1](/agenda_template1.docx) - Includes a basic overview of each role, timer card in the bottom, and general directions to guide the meeting (by [ArtICCulators in Silicon Valley](https://articculators.toastmastersclubs.org/))
 
 ### Roles
 #### Ballot Counter
